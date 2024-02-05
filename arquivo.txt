@@ -1,2 +1,3 @@
 Primeira linha do projeto, no repositório local (escrita pelo usuário marley_paranhos).
 Segunda linha do projeto, após criação de repositório remoto.
+Terceira linha do projeto, praticando os comandos Git e Github.
